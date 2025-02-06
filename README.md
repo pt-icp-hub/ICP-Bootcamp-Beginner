@@ -56,13 +56,13 @@ Welcome to the **Internet Computer Protocol (ICP) Bootcamp - Beginner**! This re
 📚 [Motoko Bootcamp](https://www.motokobootcamp.com/)  
 📚 [Motoko Playground](https://m7sm4-2iaaa-aaaab-qabra-cai.raw.ic0.app/)  
 
-💡 **Tip**: Check out [ICPNinja](https://icpninja.com) for hands-on practice.
+💡 **Tip**: Check out [ICPNinja](https://icp.ninja/) for hands-on practice.
 
 ---
 
 ## 🤝 Join the ICP Developer Community!
-👨‍💻 **Twitter**: [@dfinitydevs](https://twitter.com/dfinitydevs)  
-📢 **Discord**: [DFINITY Devs](https://discord.gg/dfinity)  
+👨‍💻 **Twitter**: [@DFINITYDev](https://x.com/DFINITYDev)  
+📢 **Discord**: [DFINITY Devs](https://discord.gg/BemnUc6Rjf)  
 💬 **Forum**: [ICP Developer Forum](https://forum.dfinity.org/)  
 
 ---
