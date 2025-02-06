@@ -34,6 +34,7 @@ Welcome to the **Internet Computer Protocol (ICP) Bootcamp - Beginner**! This re
 ### 🎭 **Introduction to Motoko**
 - Basics of **Motoko programming**
 - Why Motoko is **optimized for ICP**
+- Introduction to [Mops package manager](https://mops.one/) and the [Motoko base library](https://mops.one/base)
 - Hands-on: Exploring the **Motoko Playground & ICPNinja**
 
 ---
