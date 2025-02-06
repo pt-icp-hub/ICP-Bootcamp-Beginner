@@ -2,6 +2,13 @@
 
 Welcome to the **Internet Computer Protocol (ICP) Bootcamp - Beginner**! This repository is designed to help you get started with backend development on ICP using **Motoko**.
 
+## 📜 Table of Contents
+- [📖 Learning Modules](#-learning-modules)
+- [🎯 Beginner Challenges](#-beginner-challenges)
+- [🔗 Resources & Documentation](#-resources--documentation)
+- [🤝 Join the ICP Developer Community](#-join-the-icp-developer-community)
+
+
 ## 📖 Learning Modules
 
 ### 🏗️ **Introduction to Internet Computer Protocol (ICP)**
