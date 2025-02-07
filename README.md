@@ -6,7 +6,7 @@ Welcome to the **Internet Computer Protocol (ICP) Bootcamp - Beginner**! This re
 - [📖 Learning Modules](#-learning-modules)
 - [🎯 Beginner Challenges](#-beginner-challenges)
 - [🔗 Resources & Documentation](#-resources--documentation)
-- [🤝 Join the ICP Developer Community](#-join-the-icp-developer-community)
+- [📩 Submit Your Project!](#-submit-your-project)
 
 
 ## 📖 Learning Modules
@@ -68,10 +68,13 @@ Welcome to the **Internet Computer Protocol (ICP) Bootcamp - Beginner**! This re
 
 ---
 
-## 🤝 Join the ICP Developer Community!
-👨‍💻 **Twitter**: [@DFINITYDev](https://x.com/DFINITYDev)  
-📢 **Discord**: [DFINITY Devs](https://discord.gg/BemnUc6Rjf)  
-💬 **Forum**: [ICP Developer Forum](https://forum.dfinity.org/)  
+## 📩 Submit Your Project!
+
+🎯 **Completed your challenge? Submit your project here:**  
+📢 [Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSfRDeUw9sckd9vVmfb9gQKs4btvZRlHLTNBTgN57HdxEnge2w/viewform?usp=dialog)  
+
+📌 **Want to explore more challenges? Return to the index:**  
+🔗 [ICP Bootcamp Index](https://github.com/pt-icp-hub/ICP-Bootcamp-Index?tab=readme-ov-file) 
 
 ---
 
