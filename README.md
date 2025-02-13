@@ -24,7 +24,6 @@ Welcome to the **Internet Computer Protocol (ICP) Bootcamp - Beginner**! This re
 ### 🌐 **Understanding Subnets & Boundary Nodes**
 - How ICP **subnets** work
 - Role of **boundary nodes**
-- Reuse content from the **Motoko Bootcamp** for deeper insights
 
 ### 🏗️ **Understanding Candid**
 - What is **Candid**?
@@ -41,27 +40,17 @@ Welcome to the **Internet Computer Protocol (ICP) Bootcamp - Beginner**! This re
 
 ## 🎯 Beginner Challenges
 
-### ✅ **Challenge 1: Play with Candid UI and Motoko Playground**
-- Use **Candid UI** to interact with canisters
-- Explore Motoko Playground & write a **basic Motoko script**
-- Deploy and test functions with **ICPNinja**
+For this challenge you can choose from doing a smaller challenge (prepared by the PT ICP HUB) or a bigger, but much more rich in detail experience, that is Motoko Bootcamp.
 
-### ✅ **Challenge 2: Deploy a Simple Canister on ICP**
-- Deploy your **first smart contract**
-- Store and retrieve **persistent data structures**
-- Work with **counters, vectors, and results**
-
-### ✅ **Challenge 3: Deploy an Intermediate Canister on ICP**
-- Use **advanced data structures**: HashMaps, Switch Cases
-- Create and interact with **custom Structs**
-- Experiment with **state management** in Motoko
+- [PT ICP HUB Challenge](https://github.com/pt-icp-hub/ICP-Bootcamp-Beginner-Code)
+- [Motoko Bootcamp](https://nnri3-7qaaa-aaaaj-qa3qa-cai.icp0.io/)
 
 ---
 
 ## 🔗 Resources & Documentation
 📚 [Official ICP Docs](https://internetcomputer.org/docs)  
 📚 [Motoko Programming Guide](https://sdk.dfinity.org/docs/language-guide/motoko.html)  
-📚 [Motoko Bootcamp](https://www.motokobootcamp.com/)  
+📚 [Motoko Bootcamp Website](https://www.motokobootcamp.com/)  
 📚 [Motoko Playground](https://m7sm4-2iaaa-aaaab-qabra-cai.raw.ic0.app/)  
 
 💡 **Tip**: Check out [ICPNinja](https://icp.ninja/) for hands-on practice.
