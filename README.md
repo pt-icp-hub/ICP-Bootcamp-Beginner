@@ -44,7 +44,7 @@ For this challenge you can **choose** from doing a **smaller** challenge (prepar
 - Basics of **Motoko programming**
 - Why Motoko is **optimized for ICP**
 - Introduction to [Mops package manager](https://mops.one/) and the [Motoko base library](https://mops.one/base)
-- Hands-on: Exploring the **Motoko Playground & ICPNinja**
+- Exploring the **Motoko Playground & ICP Ninja**
 
 ---
 
