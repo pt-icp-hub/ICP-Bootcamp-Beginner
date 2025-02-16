@@ -3,13 +3,23 @@
 Welcome to the **Internet Computer Protocol (ICP) Bootcamp - Beginner**! This repository is designed to help you get started with backend development on ICP using **Motoko**.
 
 ## 📜 Table of Contents
-- [📖 Learning Modules](#-learning-modules)
 - [🎯 Beginner Challenges](#-beginner-challenges)
+- [📖 Learning Outcomes](#-learning-outcomes)
 - [🔗 Resources & Documentation](#-resources--documentation)
 - [📩 Submit Your Project!](#-submit-your-project)
 
+---
 
-## 📖 Learning Modules
+## 🎯 Beginner Challenges
+
+For this challenge you can **choose** from doing a **smaller** challenge (prepared by the PT ICP HUB) or a **bigger**, but much more rich in detail experience, that is Motoko Bootcamp.
+
+- [PT ICP HUB Challenge](https://github.com/pt-icp-hub/ICP-Bootcamp-Beginner-Code)
+- [Motoko Bootcamp](https://nnri3-7qaaa-aaaaj-qa3qa-cai.icp0.io/)
+
+---
+
+## 📖 Learning Outcomes
 
 ### 🏗️ **Introduction to Internet Computer Protocol (ICP)**
 - What is the **Internet Computer Protocol**?
@@ -35,15 +45,6 @@ Welcome to the **Internet Computer Protocol (ICP) Bootcamp - Beginner**! This re
 - Why Motoko is **optimized for ICP**
 - Introduction to [Mops package manager](https://mops.one/) and the [Motoko base library](https://mops.one/base)
 - Hands-on: Exploring the **Motoko Playground & ICPNinja**
-
----
-
-## 🎯 Beginner Challenges
-
-For this challenge you can choose from doing a smaller challenge (prepared by the PT ICP HUB) or a bigger, but much more rich in detail experience, that is Motoko Bootcamp.
-
-- [PT ICP HUB Challenge](https://github.com/pt-icp-hub/ICP-Bootcamp-Beginner-Code)
-- [Motoko Bootcamp](https://nnri3-7qaaa-aaaaj-qa3qa-cai.icp0.io/)
 
 ---
 
