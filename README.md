@@ -50,7 +50,7 @@ For this challenge you can **choose** from doing a **smaller** challenge (prepar
 
 ## 🔗 Resources & Documentation
 📚 [Official ICP Docs](https://internetcomputer.org/docs)  
-📚 [ICP Developer Liftoff - Full Dfinity Tutorial](https://internetcomputer.org/docs/current/tutorials/developer-liftoff/)
+📚 [ICP Developer Liftoff - Full Dfinity Tutorial](https://internetcomputer.org/docs/current/tutorials/developer-liftoff/)  
 📚 [Motoko Programming Guide](https://sdk.dfinity.org/docs/language-guide/motoko.html)  
 📚 [Motoko Bootcamp Website](https://www.motokobootcamp.com/)  
 📚 [Motoko Playground](https://m7sm4-2iaaa-aaaab-qabra-cai.raw.ic0.app/)  
