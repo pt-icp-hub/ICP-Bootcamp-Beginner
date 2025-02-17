@@ -16,6 +16,7 @@ For this challenge you can **choose** from doing a **smaller** challenge (prepar
 
 - [PT ICP HUB Challenge](https://github.com/pt-icp-hub/ICP-Bootcamp-Beginner-Coding)
 - [Motoko Bootcamp](https://nnri3-7qaaa-aaaaj-qa3qa-cai.icp0.io/)
+- [ICP Developer Liftoff - Dfinity Tutorial](https://internetcomputer.org/docs/current/tutorials/developer-liftoff/)  (only Level 0 to Level 2!)
 
 ---
 
@@ -50,7 +51,8 @@ For this challenge you can **choose** from doing a **smaller** challenge (prepar
 
 ## 🔗 Resources & Documentation
 📚 [Official ICP Docs](https://internetcomputer.org/docs)  
-📚 [ICP Developer Liftoff - Full Dfinity Tutorial](https://internetcomputer.org/docs/current/tutorials/developer-liftoff/)  
+📚 [ICP Developer Liftoff - Dfinity Tutorial](https://internetcomputer.org/docs/current/tutorials/developer-liftoff/)  
+📚 [ICP Developer Liftoff - Youtube Playlist](https://www.youtube.com/watch?v=oBUpJ4CqmN0&list=PLuhDt1vhGcrdR2h6nPNylXKS4u8L-efvD&index=31)  
 📚 [Motoko Programming Guide](https://sdk.dfinity.org/docs/language-guide/motoko.html)  
 📚 [Motoko Bootcamp Website](https://www.motokobootcamp.com/)  
 📚 [Motoko Playground](https://m7sm4-2iaaa-aaaab-qabra-cai.raw.ic0.app/)  
