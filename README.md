@@ -12,7 +12,7 @@ Welcome to the **Internet Computer Protocol (ICP) Bootcamp - Beginner**! This re
 
 ## 🎯 Beginner Challenges
 
-For this challenge you can **choose** from doing a **smaller** challenge (prepared by the PT ICP HUB) or a **bigger**, but much more rich in detail experience, that is Motoko Bootcamp.
+For this challenge you can **choose** from doing a **smaller** challenge (prepared by the PT ICP HUB) or a **bigger**, but much more rich in detail experience, that is Motoko Bootcamp and ICP Developer Liftoff (by Dfinity).
 
 - [PT ICP HUB Challenge](https://github.com/pt-icp-hub/ICP-Bootcamp-Beginner-Coding)
 - [Motoko Bootcamp](https://nnri3-7qaaa-aaaaj-qa3qa-cai.icp0.io/)
