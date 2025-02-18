@@ -14,7 +14,7 @@ Welcome to the **Internet Computer Protocol (ICP) Bootcamp - Beginner**! This re
 
 For this challenge you can **choose** from doing a **smaller** challenge (prepared by the PT ICP HUB) or a **bigger**, but much more rich in detail experience, that is Motoko Bootcamp and ICP Developer Liftoff (by Dfinity).
 
-- [PT ICP HUB Challenge](https://github.com/pt-icp-hub/ICP-Bootcamp-Beginner-Coding) (worth only Min prize)
+- [ICP HUB Challenge](https://github.com/pt-icp-hub/ICP-Bootcamp-Beginner-Coding) (worth only Min prize)
 - [Motoko Bootcamp](https://nnri3-7qaaa-aaaaj-qa3qa-cai.icp0.io/) (worth Min prize if only completed the first 3 chapters, Max prize if submitted all chapters - Demo the chapters passing the bootcamp tests 👍)
 - [ICP Developer Liftoff - Dfinity Tutorial](https://internetcomputer.org/docs/current/tutorials/developer-liftoff/)  (only Level 0 to Level 2!) (worth Min prize if you submit a small improv of [deploy your first dApp](https://internetcomputer.org/docs/current/tutorials/developer-liftoff/level-1/1.3-first-dapp), worth Max prize if you make more improvements, especially using other parts of the tutorial)
 
